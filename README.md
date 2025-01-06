@@ -1,4 +1,4 @@
-# Welcome to Git and GitHub at ChaiCode Cohort! 🚀
+# Welcome to Git and GitHub at ChaiCode Cohort! 👨‍💻
 
 Git and GitHub are the backbone of collaborative development at ChaiCode. This guide will help you get started with these essential tools and become a confident contributor to our projects.
 
